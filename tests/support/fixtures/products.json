@@ -1,0 +1,14 @@
+{
+    "validProduct": {
+        "nome": "Produto Teste Automatizado",
+        "preco": 100,
+        "descricao": "Produto criado via automação",
+        "quantidade": 50
+    },
+    "expensiveProduct": {
+        "nome": "Produto preço elevado",
+        "preco": 9988,
+        "descricao": "teste com Produto de preco alto",
+        "quantidade": 1
+    }
+}
